@@ -1,0 +1,59 @@
+.navbar {
+  background-color: green;
+}
+.img1 {
+  width: 300px;
+  height: 300px;
+}
+.img2 {
+  width: 300px;
+  height: 300px;
+}
+.img3 {
+  width: 300px;
+  height: 300px;
+}
+.pro1 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 800px;
+  border: solid;
+}
+.img1para {
+  display: inline-block;
+  font-size: x-large;
+}
+
+.img1para2 {
+  font-size: x-large;
+}
+.buy1 {
+  display: flex;
+  margin-left: 64px;
+}
+.pro2 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 500px;
+  width: 800px;
+  border: solid;
+}
+.pro3 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 800px;
+  border: solid;
+}
+.b1,
+.b2,
+.b3 {
+  background: -webkit-linear-gradient(right, #9fb8b8, #94d1bc);
+  width: 100px;
+  justify-content: center;
+}
+.img2para1,
+.img2para2,
+.img3para1,
+.img3para2 {
+  font-size: x-large;
+}

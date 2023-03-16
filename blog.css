@@ -1,0 +1,29 @@
+.img1 {
+  width: 100vw;
+  height: 600px;
+}
+#card1 {
+  background-color: rgb(126, 162, 126);
+  margin-left: 800px;
+  width: 400px;
+  height: 300px;
+  margin-top: -156px;
+}
+.img2,
+.img3,
+.img4 {
+  width: 150px;
+  height: 150px;
+}
+#card2,
+#card3,
+#card4,
+#card5,
+#card6 {
+  background-color: rgb(182, 141, 141);
+  margin-top: 100px;
+  margin-bottom: 50px;
+  width: 400px;
+  height: 300px;
+  margin-left: 350px;
+}

@@ -1,0 +1,58 @@
+.form-control {
+  background-color: rgb(209, 205, 205);
+  max-width: 50%;
+}
+.card {
+  border: radius 2px;
+  height: max-content;
+}
+.navbar {
+  background-color: rgb(164, 210, 164);
+}
+.row {
+  float: right;
+  padding-left: 4px;
+}
+#submit {
+  position: absolute;
+
+  transition: all 0.4s;
+  background: -webkit-linear-gradient(right, #00dbde, #fc00ff);
+}
+#scard {
+  float: right;
+  margin: top -36px;
+}
+.scontact {
+  background: -webkit-linear-gradient(right, #00dbde, #fc00ff);
+  background-color: rgb(43, 118, 43);
+  border: solid;
+  border-color: white;
+  box-sizing: border-box;
+  display: inline-block;
+  margin-left: -96px;
+}
+.card-body {
+  display: inline-block;
+}
+.container {
+  background-color: white;
+  border: solid;
+  border-color: white;
+  display: inline-block;
+  vertical-align: top;
+}
+.email {
+  margin-left: 32px;
+  color: aliceblue;
+  margin-top: 96px;
+}
+.call {
+  color: aliceblue;
+  margin-top: 64px;
+}
+.visit {
+  color: aliceblue;
+  margin-top: 96px;
+  margin: bottom 96px;
+}
